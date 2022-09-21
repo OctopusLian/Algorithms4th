@@ -1,4 +1,4 @@
-package Fundamentals.exercise;
+package Fundamentals.BasicProgrammingModel.exercise;
 
 public class ex1112 {
     public static void main(String[] args) {

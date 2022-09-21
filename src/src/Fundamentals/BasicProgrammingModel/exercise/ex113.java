@@ -1,4 +1,4 @@
-package Fundamentals.exercise;
+package Fundamentals.BasicProgrammingModel.exercise;
 
 import edu.princeton.cs.algs4.StdOut;
 
